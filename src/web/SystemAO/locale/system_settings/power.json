@@ -46,7 +46,19 @@
             "name": "简体中文（简体）",
             "fwtitle" : "",
             "strings":{
-                
+                "hostPower/host_power": "主机电源",
+                "hostPower/host_power_title": "主机电源",
+                "hostPower/change_power_state": "更改设备的电源状态",
+                "hostPower/system_online": "系统在线",
+                "hostPower/last_update": "上次更新时间：",
+                "hostPower/power_options": "电源选项",
+                "hostPower/power_off": "关机",
+                "hostPower/restart": "重新启动",
+                "hostPower/restart_shutdown_risk": "重新启动/关机具有风险",
+                "hostPower/shutdown_warning": "如果您决定关闭主机服务器，ArozOS 将把关机信号发送给主机作业系统，从 Web 页面并无法知道关机/重新启动过程是否已完成。<br><b>请确保将其关闭时您是位于可以在物理上重新启动主机的地方。</b>",
+                "hostPower/ensure_safety": "请确保您在可以物理上重新启动主机的地方进行关机。",
+                "hostPower/status/online": "系统在线",
+                "hostPower/status/disconnected": "已离线",
                 "":""
             },
             "titles":{
