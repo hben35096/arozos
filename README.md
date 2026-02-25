@@ -1,3 +1,21 @@
+# Arozos (Modified Version)
+
+> This repository is a modified version of the original Arozos project.
+> Original project: https://github.com/tobychui/arozos
+> License: GNU GPL v3.0
+
+## Modifications (2026-02-25)
+
+- Replaced several system icons
+- Replaced default wallpapers
+- Fixed a path-related issue
+- Removed unused PSD design files and unused wallpapers
+- Added partial Chinese localization improvements
+
+The complete corresponding source code for this modified version is available in this repository.
+
+---
+
 ![Image](img/banner.png?raw=true)
 
 <img src="https://img.shields.io/badge/License-GPLv3-blue"> <img src="https://img.shields.io/badge/Device-Raspberry%20Pi%203B%2B%20%2F%204B-red"> <img src="https://img.shields.io/badge/Made%20In%20Hong%20Kong-香港開發-blueviolet">
